@@ -1,4 +1,4 @@
-First create Your APi key from gemini from https://ai.google.dev/gemini-api/docs/api-key
+First create it Your APi key from gemini from https://ai.google.dev/gemini-api/docs/api-key
 and paste your api inot MyKey class <br><br><br>
 class MyApiKey {
   static final APIKEY = "Your_key";
